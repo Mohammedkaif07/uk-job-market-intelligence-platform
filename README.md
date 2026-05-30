@@ -60,3 +60,17 @@ Data Analysis, SQL, PostgreSQL, Power BI, ETL Pipelines, Dashboard Development, 
 ## Author
 
 Mohammed Kaif
+
+# Dashboard Screenshots
+
+## Executive Overview
+![Executive Overview](executive_overview.png)
+
+## Skills Intelligence
+![Skills Intelligence](skills_analysis.png)
+
+## Skills & Salary Analysis
+![Skills Salary Analysis](skills_salary_analysis.png)
+
+## Live Job Market Feed
+![Live Jobs](live_jobs.png)
