@@ -1,0 +1,24 @@
+# Secrets — never commit real credentials
+.env
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Data files (raw/intermediate data shouldn't bloat the repo — keep code + small samples only)
+data/raw/*.csv
+data/clean/*.csv
+data/engineered/*.csv
+data/scraped/*.csv
+!data/raw/.gitkeep
+!data/clean/.gitkeep
+!data/engineered/.gitkeep
+!data/scraped/.gitkeep
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
